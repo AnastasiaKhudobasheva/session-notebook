@@ -6,3 +6,8 @@
 5) in Terminal: git add <challenge folder name>
 6) in Terminal: git commit -m "<message>"
 7) in Terminal: git push -u origin main (first time) and after git push
+
+8) in Terminal how to create branches: git switch -c "name of the branch"
+
+
+
